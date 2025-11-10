@@ -3,5 +3,5 @@
 </script>
 
 <div class="p-layout">
-    Calendar
+    GoalList
 </div>
