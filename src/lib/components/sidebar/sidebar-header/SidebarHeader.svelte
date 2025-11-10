@@ -9,7 +9,7 @@
           alt="avatar" 
           class="h-10 w-10 rounded-full"
         >
-        <span>Егор Пупкин</span>
+        <span>Egor Pupkin</span>
     </div>
     
     <button

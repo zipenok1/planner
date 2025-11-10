@@ -1,6 +1,7 @@
 export interface IGoal{
     id: string,
     title: string,
+    desc: string,
     img: string,
     tasks: ITask[]
 }
